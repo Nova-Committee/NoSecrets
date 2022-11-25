@@ -1,16 +1,16 @@
 [
     {
-        "modid": "modid",
-        "name": "Example Mod",
-        "description": "Example placeholder mod.",
+        "modid": "nosecrets",
+        "name": "NoSecrets",
+        "description": "Remove Super Secret Settings...",
         "version": "${version}",
         "mcversion": "${mcversion}",
         "url": "",
         "updateUrl": "",
         "authorList": [
-            "ExampleDude"
+            "Tapio"
         ],
-        "credits": "The Forge and FML guys, for making this example",
+        "credits": "",
         "logoFile": "",
         "screenshots": [],
         "dependencies": []
